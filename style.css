@@ -1,0 +1,13 @@
+/* Custom styles (if needed) */
+
+/* Smooth scrolling for in-page links */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Styling for testimonial carousel items */
+.testimonial-item {
+  transition: opacity 0.5s ease;
+}
+
+/* Additional custom styles can be added here */
